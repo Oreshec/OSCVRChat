@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vladm\repo\OSCVRChat\build\CMakeFiles\1b36eb9cdad6a5d1bee5eb95c8a9e2de\run.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\vladm\repo\OSCVRChat\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\vladm\repo\OSCVRChat\build\CMakeFiles\run" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{51803DC8-AB9B-33E2-947D-BC43B85A53D8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

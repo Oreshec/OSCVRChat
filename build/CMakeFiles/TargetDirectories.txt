@@ -1,0 +1,11 @@
+C:/Users/vladm/repo/OSCVRChat/build/CMakeFiles/OSCVRChat.dir
+C:/Users/vladm/repo/OSCVRChat/build/CMakeFiles/run.dir
+C:/Users/vladm/repo/OSCVRChat/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/vladm/repo/OSCVRChat/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/vladm/repo/OSCVRChat/build/oscpack/CMakeFiles/oscpack.dir
+C:/Users/vladm/repo/OSCVRChat/build/oscpack/CMakeFiles/OscSendTests.dir
+C:/Users/vladm/repo/OSCVRChat/build/oscpack/CMakeFiles/OscReceiveTest.dir
+C:/Users/vladm/repo/OSCVRChat/build/oscpack/CMakeFiles/OscDump.dir
+C:/Users/vladm/repo/OSCVRChat/build/oscpack/CMakeFiles/SimpleReceive.dir
+C:/Users/vladm/repo/OSCVRChat/build/oscpack/CMakeFiles/SimpleSend.dir
+C:/Users/vladm/repo/OSCVRChat/build/oscpack/CMakeFiles/ALL_BUILD.dir

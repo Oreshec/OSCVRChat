@@ -1,0 +1,24 @@
+^C:\USERS\VLADM\REPO\OSCVRCHAT\BUILD\CMAKEFILES\1B36EB9CDAD6A5D1BEE5EB95C8A9E2DE\RUN.RULE
+setlocal
+cd C:\Users\vladm\repo\OSCVRChat\build\Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\Users\vladm\repo\OSCVRChat\build\Debug\OSCVRChat.exe
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\VLADM\REPO\OSCVRCHAT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vladm/repo/OSCVRChat -BC:/Users/vladm/repo/OSCVRChat/build --check-stamp-file C:/Users/vladm/repo/OSCVRChat/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

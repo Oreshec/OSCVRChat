@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run OSCVRChat",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/Debug/OSCVRChat.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}/build/Debug",
+      "environment": [],
+      "console": "integratedTerminal",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/vladm/repo/OSCVRChat/build/cmake_install.cmake",
+		"C:/Users/vladm/repo/OSCVRChat/build/oscpack/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,7 @@
+C:\Users\vladm\repo\OSCVRChat\oscpack\ip\IpEndpointName.cpp;C:\Users\vladm\repo\OSCVRChat\build\oscpack\oscpack.dir\Debug\IpEndpointName.obj
+C:\Users\vladm\repo\OSCVRChat\oscpack\ip\win32\NetworkingUtils.cpp;C:\Users\vladm\repo\OSCVRChat\build\oscpack\oscpack.dir\Debug\NetworkingUtils.obj
+C:\Users\vladm\repo\OSCVRChat\oscpack\ip\win32\UdpSocket.cpp;C:\Users\vladm\repo\OSCVRChat\build\oscpack\oscpack.dir\Debug\UdpSocket.obj
+C:\Users\vladm\repo\OSCVRChat\oscpack\osc\OscTypes.cpp;C:\Users\vladm\repo\OSCVRChat\build\oscpack\oscpack.dir\Debug\OscTypes.obj
+C:\Users\vladm\repo\OSCVRChat\oscpack\osc\OscReceivedElements.cpp;C:\Users\vladm\repo\OSCVRChat\build\oscpack\oscpack.dir\Debug\OscReceivedElements.obj
+C:\Users\vladm\repo\OSCVRChat\oscpack\osc\OscPrintReceivedElements.cpp;C:\Users\vladm\repo\OSCVRChat\build\oscpack\oscpack.dir\Debug\OscPrintReceivedElements.obj
+C:\Users\vladm\repo\OSCVRChat\oscpack\osc\OscOutboundPacketStream.cpp;C:\Users\vladm\repo\OSCVRChat\build\oscpack\oscpack.dir\Debug\OscOutboundPacketStream.obj
